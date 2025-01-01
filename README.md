@@ -4,9 +4,10 @@ This wiki provides step-by-step instructions for setting up and running Large La
 
 ### Disclaimer⚠️
 This tutorial assumes a slight knowledge of 
-* **Terminal commands**.  
+* **Linux**.  
 * **WSL**  
-* **Docker**  
+* **Docker**
+* **CLI**
   
 While the steps are straightforward, familiarity with these topics will help you troubleshoot any issues that might arise.
 
